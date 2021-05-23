@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\resume-ms"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Work Experience Section 2",
+		"liveServer.settings.port": 5501
+	}
+}
